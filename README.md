@@ -1,11 +1,3 @@
-***Important note***:
-
-This assignment is meant to be completed within **a maximum of 2 hours**.
-
-Just attempt this assignment, and submit your code before **2 hours** is up, regardless of whether it is fully completed.
-
-You may provide **additional documentation** on how you would continue with this assignment if you were given more time.
-
 # Overview
 
 You are required to build a simple fullstack web application that displays a list of movies and movie details.
